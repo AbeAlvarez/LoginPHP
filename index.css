@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body{
+    background: #0f56f0;
+  }
+
+  h3{
+  padding: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bolder;
+  }
+  
+  .reg-field {
+    position: relative;
+    width: 400px;
+    background: #2a2e3b;
+    padding: 30px;
+    margin: auto;
+    margin-top: 180px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+  }
+  
+  
+.data-fields{
+    width: 100%;
+    padding: 10px;
+    background: #40434b;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #0f56f0;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+}
+
+.button {
+  background-color: #0f56f0; 
+  border: none;
+  color: white;
+  padding: 5px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
